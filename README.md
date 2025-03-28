@@ -1,6 +1,6 @@
 Demo-Link:
 
-# 🌟 Parallax Effect Animated Website
+# 🌟 Parallax Effect Animated Website  [i.e :scroll to feel the magic]
 
 Welcome to the **Parallax Effect Animated Website**! This project is a testament to my expertise in **animation and user experience design**, leveraging the power of **GSAP (GreenSock Animation Platform)** to craft smooth, interactive, and visually appealing web experiences. 🚀  
 
