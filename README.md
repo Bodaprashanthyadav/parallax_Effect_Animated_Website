@@ -12,12 +12,12 @@ Whether you're a recruiter, fellow developer, or just someone who loves animatio
 ---
 
 ## ✨ Features
-
-✅ Smooth animations with **GSAP**
-✅ Engaging scrolling effects
-✅ Optimized performance
-✅ Fully responsive design
-✅ Lightweight and fast ⚡
+                      
+✅ Smooth animations with **GSAP**   <br/>
+✅ Engaging scrolling effects         <br/>
+✅ Optimized performance               <br/>
+✅ Fully responsive design              <br/>
+✅ Lightweight and fast ⚡                <br/>
 
 ---
 
